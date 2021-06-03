@@ -1,4 +1,5 @@
 # hello-world
 first github repository
-Hello
+
+Hello,
 I am trying to become a software developer
